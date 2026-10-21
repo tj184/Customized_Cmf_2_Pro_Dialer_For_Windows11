@@ -1,0 +1,36 @@
+{
+  "brightness_step": 5,
+  "volume_step": 5,
+  "apps": [
+    {
+      "name": "Notepad",
+      "command": "notepad.exe"
+    },
+    {
+      "name": "Calculator",
+      "command": "calc.exe"
+    },
+    {
+      "name": "VS Code",
+      "command": "code"
+    }
+  ],
+  "links": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com"
+    }
+  ]
+}
